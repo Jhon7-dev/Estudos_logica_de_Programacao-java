@@ -1,0 +1,175 @@
+{
+     // Use o IntelliSense para saber mais sobre os atributos possíveis.
+     // Focalizar para exibir as descrições dos atributos existentes.
+     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+     "version": "0.2.0",
+     "configurations": [
+          {
+               "type": "java",
+               "name": "exe51",
+               "request": "launch",
+               "mainClass": "exe51",
+               "projectName": "ESTUDONAUTA- WHILE_26220617"
+          },
+          {
+               "type": "java",
+               "name": "exe50",
+               "request": "launch",
+               "mainClass": "exe50",
+               "projectName": "ESTUDONAUTA- WHILE_26220617"
+          },
+          {
+               "type": "java",
+               "name": "aninha",
+               "request": "launch",
+               "mainClass": "aninha",
+               "projectName": "ESTUDONAUTA- WHILE_26220617"
+          },
+          {
+               "type": "java",
+               "name": "exe43",
+               "request": "launch",
+               "mainClass": "exe43",
+               "projectName": "ESTUDONAUTA- WHILE_26220617"
+          },
+          {
+               "type": "java",
+               "name": "faca",
+               "request": "launch",
+               "mainClass": "faca",
+               "projectName": "ESTUDONAUTA- WHILE_26220617"
+          },
+          {
+               "type": "java",
+               "name": "exe35",
+               "request": "launch",
+               "mainClass": "exe35",
+               "projectName": "ESTUDONAUTA- WHILE_26220617"
+          },
+          {
+               "type": "java",
+               "name": "exe",
+               "request": "launch",
+               "mainClass": "exe",
+               "projectName": "ESTUDONAUTA- WHILE_26220617"
+          },
+          {
+               "type": "java",
+               "name": "exe39",
+               "request": "launch",
+               "mainClass": "exe39",
+               "projectName": "ESTUDONAUTA- WHILE_ab3e7c62"
+          },
+          {
+               "type": "java",
+               "name": "flag2",
+               "request": "launch",
+               "mainClass": "flag2",
+               "projectName": "ESTUDONAUTA- WHILE_ab3e7c62"
+          },
+          {
+               "type": "java",
+               "name": "flag",
+               "request": "launch",
+               "mainClass": "flag",
+               "projectName": "ESTUDONAUTA- WHILE_ab3e7c62"
+          },
+          {
+               "type": "java",
+               "name": "exe37",
+               "request": "launch",
+               "mainClass": "exe37",
+               "projectName": "ESTUDONAUTA- WHILE_ab3e7c62"
+          },
+          {
+               "type": "java",
+               "name": "maiormenor",
+               "request": "launch",
+               "mainClass": "maiormenor",
+               "projectName": "ESTUDONAUTA- WHILE_ab3e7c62"
+          },
+          {
+               "type": "java",
+               "name": "Current File",
+               "request": "launch",
+               "mainClass": "${file}"
+          },
+          {
+               "type": "java",
+               "name": "algo",
+               "request": "launch",
+               "mainClass": "algo",
+               "projectName": "ESTUDONAUTA- WHILE_ab3e7c62"
+          },
+          {
+               "type": "java",
+               "name": "algoz2",
+               "request": "launch",
+               "mainClass": "algoz2",
+               "projectName": "ESTUDONAUTA- WHILE_ab3e7c62"
+          },
+          {
+               "type": "java",
+               "name": "exe",
+               "request": "launch",
+               "mainClass": "exe",
+               "projectName": "ESTUDONAUTA- WHILE_ab3e7c62"
+          },
+          {
+               "type": "java",
+               "name": "exe29",
+               "request": "launch",
+               "mainClass": "exe29",
+               "projectName": "ESTUDONAUTA- WHILE_ab3e7c62"
+          },
+          {
+               "type": "java",
+               "name": "exe30",
+               "request": "launch",
+               "mainClass": "exe30",
+               "projectName": "ESTUDONAUTA- WHILE_ab3e7c62"
+          },
+          {
+               "type": "java",
+               "name": "exe32",
+               "request": "launch",
+               "mainClass": "exe32",
+               "projectName": "ESTUDONAUTA- WHILE_ab3e7c62"
+          },
+          {
+               "type": "java",
+               "name": "exe34",
+               "request": "launch",
+               "mainClass": "exe34",
+               "projectName": "ESTUDONAUTA- WHILE_ab3e7c62"
+          },
+          {
+               "type": "java",
+               "name": "exe35",
+               "request": "launch",
+               "mainClass": "exe35",
+               "projectName": "ESTUDONAUTA- WHILE_ab3e7c62"
+          },
+          {
+               "type": "java",
+               "name": "exe36",
+               "request": "launch",
+               "mainClass": "exe36",
+               "projectName": "ESTUDONAUTA- WHILE_ab3e7c62"
+          },
+          {
+               "type": "java",
+               "name": "facto",
+               "request": "launch",
+               "mainClass": "facto",
+               "projectName": "ESTUDONAUTA- WHILE_ab3e7c62"
+          },
+          {
+               "type": "java",
+               "name": "menina",
+               "request": "launch",
+               "mainClass": "menina",
+               "projectName": "ESTUDONAUTA- WHILE_ab3e7c62"
+          }
+     ]
+}

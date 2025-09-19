@@ -1,0 +1,217 @@
+{
+     // Use o IntelliSense para saber mais sobre os atributos possíveis.
+     // Focalizar para exibir as descrições dos atributos existentes.
+     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+     "version": "0.2.0",
+     "configurations": [
+          {
+               "type": "java",
+               "name": "exe19",
+               "request": "launch",
+               "mainClass": "exe19",
+               "projectName": "REVISÃO_16de614b"
+          },
+          {
+               "type": "java",
+               "name": "exe1",
+               "request": "launch",
+               "mainClass": "exe1",
+               "projectName": "REVISÃO_16de614b"
+          },
+          {
+               "type": "java",
+               "name": "exe25",
+               "request": "launch",
+               "mainClass": "exe25",
+               "projectName": "REVISÃO_16de614b"
+          },
+          {
+               "type": "java",
+               "name": "exe24",
+               "request": "launch",
+               "mainClass": "exe24",
+               "projectName": "REVISÃO_16de614b"
+          },
+          {
+               "type": "java",
+               "name": "exe22",
+               "request": "launch",
+               "mainClass": "exe22",
+               "projectName": "REVISÃO_16de614b"
+          },
+          {
+               "type": "java",
+               "name": "exe212",
+               "request": "launch",
+               "mainClass": "exe212",
+               "projectName": "REVISÃO_16de614b"
+          },
+          {
+               "type": "java",
+               "name": "exe8",
+               "request": "launch",
+               "mainClass": "exe8",
+               "projectName": "REVISÃO_16de614b"
+          },
+          {
+               "type": "java",
+               "name": "exe21",
+               "request": "launch",
+               "mainClass": "exe21",
+               "projectName": "REVISÃO_16de614b"
+          },
+          {
+               "type": "java",
+               "name": "exe20",
+               "request": "launch",
+               "mainClass": "exe20",
+               "projectName": "REVISÃO_16de614b"
+          },
+          {
+               "type": "java",
+               "name": "Current File",
+               "request": "launch",
+               "mainClass": "${file}"
+          },
+          {
+               "type": "java",
+               "name": "exe1",
+               "request": "launch",
+               "mainClass": "exe1",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe10",
+               "request": "launch",
+               "mainClass": "exe10",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe11",
+               "request": "launch",
+               "mainClass": "exe11",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe12",
+               "request": "launch",
+               "mainClass": "exe12",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe13",
+               "request": "launch",
+               "mainClass": "exe13",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe14",
+               "request": "launch",
+               "mainClass": "exe14",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe15",
+               "request": "launch",
+               "mainClass": "exe15",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe16",
+               "request": "launch",
+               "mainClass": "exe16",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe17",
+               "request": "launch",
+               "mainClass": "exe17",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe18",
+               "request": "launch",
+               "mainClass": "exe18",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe19",
+               "request": "launch",
+               "mainClass": "exe19",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe2",
+               "request": "launch",
+               "mainClass": "exe2",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe20",
+               "request": "launch",
+               "mainClass": "exe20",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe3",
+               "request": "launch",
+               "mainClass": "exe3",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe4",
+               "request": "launch",
+               "mainClass": "exe4",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe5",
+               "request": "launch",
+               "mainClass": "exe5",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe6",
+               "request": "launch",
+               "mainClass": "exe6",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe7",
+               "request": "launch",
+               "mainClass": "exe7",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe8",
+               "request": "launch",
+               "mainClass": "exe8",
+               "projectName": "REVISÃO_d68cebe0"
+          },
+          {
+               "type": "java",
+               "name": "exe9",
+               "request": "launch",
+               "mainClass": "exe9",
+               "projectName": "REVISÃO_d68cebe0"
+          }
+     ]
+}
